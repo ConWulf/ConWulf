@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner with view from Mt. Rainier](https://github.com/ConWulf/ConWulf/raw/main/mt-rainier-pano.jpg)
 
 <!--
 **ConWulf/ConWulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
