@@ -1,7 +1,13 @@
 ![banner with view from Mt. Rainier](https://github.com/ConWulf/ConWulf/raw/main/mt-rainier-pano.jpg)
 
-## Hi! My Name Is Connor.
+## Hello fellow nerds! My Name Is Connor.
 ----
+
+ - 💻  I'm a software developer
+ - 📡  I love all things science and technology
+ - 🌱  I’m currently learning Java
+ -   I want to learn C# and Spring
+
 <img src="img/javascript.svg" alt="javascript logo">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,13 +16,10 @@
  <a href="https://github.com/anuraghazra/convoychat">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ConWulf&show_icons=true&theme=synthwave&line_height=30&hide_border=true" alt="general github stats">
 </a>
-### test
-
 
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
