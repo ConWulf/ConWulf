@@ -1,6 +1,8 @@
 ![banner with view from Mt. Rainier](https://github.com/ConWulf/ConWulf/raw/main/mt-rainier-pano.jpg)
 
 ## Hi! My Name Is Connor.
+----
+<img src="img/javascript.svg" alt="javascript logo">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&theme=synthwave&hide_border=true&layout=compact" alt="Most used language">
