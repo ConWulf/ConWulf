@@ -12,9 +12,9 @@
  
 ### Languages
 ---
-
-<img width="8%" src="img/javascript-logo.svg" alt="javascript logo">
-
+<svg>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo">
+</svg>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&theme=synthwave&hide_border=true&layout=compact" alt="Most used language">
  </a>
