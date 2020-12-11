@@ -12,9 +12,10 @@
  
 ### Languages
 ---
-<svg>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo">
-</svg>
+
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript logo"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="javascript logo">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&theme=synthwave&hide_border=true&layout=compact" alt="Most used language">
  </a>
