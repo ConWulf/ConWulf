@@ -15,6 +15,7 @@
 
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript logo"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="javascript logo">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java logo">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&bg_color=004643&text_color=FAF4D3&title_color=30C5FF&icon_color=FAF4D3&hide_border=true&layout=compact" alt="Most used language">
