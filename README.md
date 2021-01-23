@@ -5,8 +5,8 @@
 
  - 💻  I'm a software developer
  - 📡  I love all things science and technology
- -  ☕️ I’m currently learning Java
- -   I want to learn C# and Spring
+ -  ☕️ I’m currently learning Java and vue
+ -   I want to learn C#
  
  <br>
  
