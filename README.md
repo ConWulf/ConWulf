@@ -8,8 +8,6 @@
  -  ☕️ I’m currently learning Java and vue
  -   I want to learn C#
  
- <br>
- 
 ### Languages
 ---
 
