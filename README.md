@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind logo">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="mysql logo">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo">
+<img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=35495e" alt="jquery logo">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&bg_color=000000&text_color=9744F5&title_color=9744F5&icon_color=9744F5&hide_border=true&layout=compact" alt="Most used language">
