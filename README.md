@@ -26,6 +26,9 @@
  <a href="https://github.com/anuraghazra/convoychat">
   <img width="425px" src="https://github-readme-stats.vercel.app/api?username=ConWulf&show_icons=true&bg_color=000000&text_color=9744F5&title_color=9744F5&icon_color=9744F5&line_height=30&hide_border=true" alt="general github stats">
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Wulf&count_private=true&bg_color=000000&text_color=9744F5&title_color=9744F5&icon_color=9744F5&hide_border=true&layout=compact" alt="Most used language">
+ </a>
 
 ### Streak
 ---
