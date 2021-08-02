@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript logo">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&bg_color=000000&text_color=9744F5&title_color=9744F5&icon_color=9744F5&hide_border=true&layout=compact&langs_count=6" alt="Most used language">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConWulf&count_private=true&bg_color=000000&text_color=9744F5&title_color=9744F5&icon_color=9744F5&hide_border=true&layout=compact&langs_count=10" alt="Most used language">
  </a>
  <a href="https://github.com/anuraghazra/convoychat">
   <img width="425px" src="https://github-readme-stats.vercel.app/api?username=ConWulf&show_icons=true&bg_color=000000&text_color=9744F5&title_color=9744F5&icon_color=9744F5&line_height=30&hide_border=true" alt="general github stats">
